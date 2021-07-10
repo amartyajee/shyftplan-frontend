@@ -1,0 +1,46 @@
+/* .list-container {
+    height: 300px;
+    overflow-y: scroll;
+} */
+
+.list-container-group {
+    display: inline-flex;
+}
+
+.details-container {
+    max-width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.details-card-parent {
+    width: 18rem;
+}
+
+.details-card-image {
+    width: 18rem;
+    height: 200px;
+}
+
+.details-sidebar {
+
+    background-color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
