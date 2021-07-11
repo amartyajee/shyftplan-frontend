@@ -1,0 +1,209 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "position": {
+                "name": "Sports",
+                "color": "red",
+                "id": 226
+            },
+            "startsAt": "2020-09-16T07:00:00.000Z",
+            "endsAt": "2020-09-16T12:00:00.000Z"
+        },
+        {
+            "id": 18,
+            "position": {
+                "name": "Toys",
+                "color": "turquoise",
+                "id": 136
+            },
+            "startsAt": "2020-06-04T07:00:00.000Z",
+            "endsAt": "2020-06-04T13:00:00.000Z"
+        },
+        {
+            "id": 36,
+            "position": {
+                "name": "Games",
+                "color": "plum",
+                "id": 185
+            },
+            "startsAt": "2020-02-25T07:00:00.000Z",
+            "endsAt": "2020-02-25T11:00:00.000Z"
+        },
+        {
+            "id": 56,
+            "position": {
+                "name": "Outdoors",
+                "color": "yellow",
+                "id": 46
+            },
+            "startsAt": "2020-10-17T06:00:00.000Z",
+            "endsAt": "2020-10-17T13:00:00.000Z"
+        },
+        {
+            "id": 77,
+            "position": {
+                "name": "Health",
+                "color": "fuchsia",
+                "id": 97
+            },
+            "startsAt": "2020-04-05T10:00:00.000Z",
+            "endsAt": "2020-04-05T16:00:00.000Z"
+        },
+        {
+            "id": 124,
+            "position": {
+                "name": "Games",
+                "color": "plum",
+                "id": 185
+            },
+            "startsAt": "2020-08-14T11:00:00.000Z",
+            "endsAt": "2020-08-14T17:00:00.000Z"
+        },
+        {
+            "id": 140,
+            "position": {
+                "name": "Grocery",
+                "color": "indigo",
+                "id": 1
+            },
+            "startsAt": "2020-08-04T08:00:00.000Z",
+            "endsAt": "2020-08-04T12:00:00.000Z"
+        },
+        {
+            "id": 181,
+            "position": {
+                "name": "Tools",
+                "color": "grey",
+                "id": 24
+            },
+            "startsAt": "2020-01-11T06:00:00.000Z",
+            "endsAt": "2020-01-11T13:00:00.000Z"
+        },
+        {
+            "id": 203,
+            "position": {
+                "name": "Health",
+                "color": "fuchsia",
+                "id": 97
+            },
+            "startsAt": "2020-01-28T10:00:00.000Z",
+            "endsAt": "2020-01-28T15:00:00.000Z"
+        },
+        {
+            "id": 246,
+            "position": {
+                "name": "Health",
+                "color": "fuchsia",
+                "id": 97
+            },
+            "startsAt": "2020-12-01T11:00:00.000Z",
+            "endsAt": "2020-12-01T15:00:00.000Z"
+        },
+        {
+            "id": 252,
+            "position": {
+                "name": "Toys",
+                "color": "azure",
+                "id": 55
+            },
+            "startsAt": "2020-05-12T08:00:00.000Z",
+            "endsAt": "2020-05-12T12:00:00.000Z"
+        },
+        {
+            "id": 278,
+            "position": {
+                "name": "Clothing",
+                "color": "maroon",
+                "id": 275
+            },
+            "startsAt": "2020-09-13T11:00:00.000Z",
+            "endsAt": "2020-09-13T18:00:00.000Z"
+        },
+        {
+            "id": 300,
+            "position": {
+                "name": "Grocery",
+                "color": "indigo",
+                "id": 1
+            },
+            "startsAt": "2020-02-10T11:00:00.000Z",
+            "endsAt": "2020-02-10T15:00:00.000Z"
+        },
+        {
+            "id": 320,
+            "position": {
+                "name": "Health",
+                "color": "fuchsia",
+                "id": 97
+            },
+            "startsAt": "2020-04-05T11:00:00.000Z",
+            "endsAt": "2020-04-05T19:00:00.000Z"
+        },
+        {
+            "id": 323,
+            "position": {
+                "name": "Industrial",
+                "color": "silver",
+                "id": 145
+            },
+            "startsAt": "2020-11-05T10:00:00.000Z",
+            "endsAt": "2020-11-05T16:00:00.000Z"
+        },
+        {
+            "id": 337,
+            "position": {
+                "name": "Clothing",
+                "color": "maroon",
+                "id": 275
+            },
+            "startsAt": "2020-07-21T09:00:00.000Z",
+            "endsAt": "2020-07-21T16:00:00.000Z"
+        },
+        {
+            "id": 350,
+            "position": {
+                "name": "Grocery",
+                "color": "indigo",
+                "id": 1
+            },
+            "startsAt": "2020-06-01T07:00:00.000Z",
+            "endsAt": "2020-06-01T12:00:00.000Z"
+        },
+        {
+            "id": 376,
+            "position": {
+                "name": "Health",
+                "color": "fuchsia",
+                "id": 97
+            },
+            "startsAt": "2020-10-12T06:00:00.000Z",
+            "endsAt": "2020-10-12T12:00:00.000Z"
+        },
+        {
+            "id": 381,
+            "position": {
+                "name": "Games",
+                "color": "plum",
+                "id": 185
+            },
+            "startsAt": "2020-12-01T10:00:00.000Z",
+            "endsAt": "2020-12-01T16:00:00.000Z"
+        },
+        {
+            "id": 381,
+            "position": {
+                "name": "Tools",
+                "color": "grey",
+                "id": 24
+            },
+            "startsAt": "2020-11-01T10:00:00.000Z",
+            "endsAt": "2020-11-01T14:00:00.000Z"
+        }
+    ],
+    "pagination": {
+        "offset": 0,
+        "limit": 20,
+        "count": 50
+    }
+}
