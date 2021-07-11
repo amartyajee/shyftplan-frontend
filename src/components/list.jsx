@@ -34,7 +34,7 @@ class UserList extends Component {
             <br />
             <div className="list-group w-50 list-container-group">
                 {
-                    this.state.positions.slice(0, this.state.elementCount).map((event, index) => (
+                    this.state.positions.slice((this.state.elementCount - 10), this.state.elementCount).map((event, index) => (
                         <a
                             onClick={(e) => { onListItemClick(e, event, this) }}
                             key={index}
